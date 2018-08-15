@@ -1,0 +1,10 @@
+E:\GitHub\serialportWebservice\ConsoleConfigService\bin\Debug\ConsoleConfigService.exe
+E:\GitHub\serialportWebservice\ConsoleConfigService\bin\Debug\ConsoleConfigService.pdb
+E:\GitHub\serialportWebservice\ConsoleConfigService\bin\Debug\serialportWebservice.exe
+E:\GitHub\serialportWebservice\ConsoleConfigService\bin\Debug\websocket-sharp.dll
+E:\GitHub\serialportWebservice\ConsoleConfigService\bin\Debug\serialportWebservice.pdb
+E:\GitHub\serialportWebservice\ConsoleConfigService\obj\Debug\ConsoleConfigService.csprojAssemblyReference.cache
+E:\GitHub\serialportWebservice\ConsoleConfigService\obj\Debug\ConsoleConfigService.csproj.CoreCompileInputs.cache
+E:\GitHub\serialportWebservice\ConsoleConfigService\obj\Debug\ConsoleConfigService.csproj.CopyComplete
+E:\GitHub\serialportWebservice\ConsoleConfigService\obj\Debug\ConsoleConfigService.exe
+E:\GitHub\serialportWebservice\ConsoleConfigService\obj\Debug\ConsoleConfigService.pdb

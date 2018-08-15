@@ -1,0 +1,12 @@
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.PortService.resources
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.csproj.GenerateResource.cache
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.csproj.CoreCompileInputs.cache
+E:\GitHub\serialportWebservice\serialportWebservice\bin\Debug\serialportWebservice.exe
+E:\GitHub\serialportWebservice\serialportWebservice\bin\Debug\serialportWebservice.pdb
+E:\GitHub\serialportWebservice\serialportWebservice\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\serialportWebservice\serialportWebservice\bin\Debug\websocket-sharp.dll
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.ProjectInstaller.resources
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.csproj.CopyComplete
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.exe
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.pdb
+E:\GitHub\serialportWebservice\serialportWebservice\obj\Debug\serialportWebservice.csprojAssemblyReference.cache
