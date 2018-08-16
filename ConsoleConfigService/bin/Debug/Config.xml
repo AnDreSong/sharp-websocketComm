@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<PortDataConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PortName>COM10</PortName>
-  <BaudRate>9600</BaudRate>
-  <ServerPort>9100</ServerPort>
-  <Serverforward>/SerialWebServer</Serverforward>
-</PortDataConfig>
